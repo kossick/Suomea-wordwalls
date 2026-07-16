@@ -31,6 +31,8 @@
 
 ## Objekti
 
+[Objekti flowchart (credit to Daniel)](docs/objekti.md)
+
 + [Objekti](https://wordwall.net/fi/resource/61043928)
 + [Objekti (ilman vastaukset)](https://wordwall.net/fi/resource/32380763)
 + [Objekti](https://wordwall.net/fi/resource/36209059)
